@@ -1,12 +1,12 @@
-***for windows***
+**java 18 is a must**
 
+***for windows***\
 **how to compile**\
 ```.\mvnw.cmd clean install```\
 **how to run**\
 ```.\mvnw.cmd spring-boot:run```
 
-***for linux***
-
+***for linux***\
 **how to compile**\
 ```./mvnw clean install```\
 **how to run**\
