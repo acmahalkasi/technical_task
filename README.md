@@ -1,4 +1,5 @@
 **at least java 11 is a must or please edit pom.xml**
+**app will be run on port 8080. edit pom.xml for other**
 
 ***for windows***\
 **how to compile**\

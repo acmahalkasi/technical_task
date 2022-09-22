@@ -22,6 +22,11 @@ public class Controller {
     DataProvider dataProvider;
 
     @GetMapping(value = "/books", produces = "application/json")
+    public String hello() {
+        return "hello";
+    }
+
+    @GetMapping(value = "/books", produces = "application/json")
     public ResponseEntity<String> listBooks() {
         log.info("list books requested");
         return ResponseEntity.ok(gson.toJson(dataProvider.getBooks()));
