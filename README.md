@@ -1,4 +1,4 @@
-**java 18 is a must**
+**at least java 11 is a must or please edit pom.xml**
 
 ***for windows***\
 **how to compile**\
