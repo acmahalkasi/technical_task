@@ -21,7 +21,7 @@ public class Controller {
     @Autowired
     DataProvider dataProvider;
 
-    @GetMapping(value = "/books", produces = "application/json")
+    @GetMapping(value = "/")
     public String hello() {
         return "hello";
     }
