@@ -1,0 +1,404 @@
+[
+  {
+    "title": "Doctor in the Nude",
+    "author": "Gordon, Richard",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Farewell to Arms, A",
+    "author": "Hemingway, Ernest",
+    "genre": "fiction",
+    "publisher": "Rupa"
+  },
+  {
+    "title": "Freedom at Midnight",
+    "author": "Lapierre, Dominique",
+    "genre": "history",
+    "publisher": "vikas"
+  },
+  {
+    "title": "New Machiavelli, The",
+    "author": "Wells, H. G.",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "One",
+    "author": "Bach, Richard",
+    "genre": "nonfiction",
+    "publisher": "Dell"
+  },
+  {
+    "title": "Beyond the Three Seas",
+    "author": "Dalrymple, William",
+    "genre": "history",
+    "publisher": "Random House"
+  },
+  {
+    "title": "Hunchback of Notre Dame, The",
+    "author": "Hugo, Victor",
+    "genre": "fiction",
+    "publisher": "Random House"
+  },
+  {
+    "title": "Russian Journal, A",
+    "author": "Steinbeck, John",
+    "genre": "nonfiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Integration of the Indian States",
+    "author": "Menon, V P",
+    "genre": "history",
+    "publisher": "Orient Blackswan"
+  },
+  {
+    "title": "Nature of Statistical Learning Theory, The",
+    "author": "Vapnik, Vladimir",
+    "genre": "data_science",
+    "publisher": "Springer"
+  },
+  {
+    "title": "Tales of Mystery and Imagination",
+    "author": "Poe, Edgar Allen",
+    "genre": "fiction",
+    "publisher": "HarperCollins"
+  },
+  {
+    "title": "Down and Out in Paris \u0026 London",
+    "author": "Orwell, George",
+    "genre": "nonfiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Prisoner of Birth, A",
+    "author": "Archer, Jeffery",
+    "genre": "fiction",
+    "publisher": "Pan"
+  },
+  {
+    "title": "Identity \u0026 Violence",
+    "author": "Sen, Amartya",
+    "genre": "philosophy",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Theory of Everything, The",
+    "author": "Hawking, Stephen",
+    "genre": "science",
+    "publisher": "Jaico"
+  },
+  {
+    "title": "Making Software",
+    "author": "Oram, Andy",
+    "genre": "computer_science",
+    "publisher": "O\u0027Reilly"
+  },
+  {
+    "title": "Last Mughal, The",
+    "author": "Dalrymple, William",
+    "genre": "history",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Analysis, Vol I",
+    "author": "Tao, Terence",
+    "genre": "mathematics",
+    "publisher": "HBA"
+  },
+  {
+    "title": "Statistical Decision Theory\u0027",
+    "author": "Pratt, John",
+    "genre": "data_science",
+    "publisher": "MIT Press"
+  },
+  {
+    "title": "Computer Vision, A Modern Approach",
+    "author": "Forsyth, David",
+    "genre": "data_science",
+    "publisher": "Pearson"
+  },
+  {
+    "title": "Superfreakonomics",
+    "author": "Dubner, Stephen",
+    "genre": "economics",
+    "publisher": "HarperCollins"
+  },
+  {
+    "title": "Birth of a Theorem",
+    "author": "Villani, Cedric",
+    "genre": "mathematics",
+    "publisher": "Bodley Head"
+  },
+  {
+    "title": "False Impressions",
+    "author": "Archer, Jeffery",
+    "genre": "fiction",
+    "publisher": "Pan"
+  },
+  {
+    "title": "Textbook of Economic Theory",
+    "author": "Stonier, Alfred",
+    "genre": "economics",
+    "publisher": "Pearson"
+  },
+  {
+    "title": "Signal and the Noise, The",
+    "author": "Silver, Nate",
+    "genre": "data_science",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Hidden Connections, The",
+    "author": "Capra, Fritjof",
+    "genre": "science",
+    "publisher": "HarperCollins"
+  },
+  {
+    "title": "Moon is Down, The",
+    "author": "Steinbeck, John",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Rationality \u0026 Freedom",
+    "author": "Sen, Amartya",
+    "genre": "economics",
+    "publisher": "Springer"
+  },
+  {
+    "title": "O Jerusalem!",
+    "author": "Lapierre, Dominique",
+    "genre": "history",
+    "publisher": "vikas"
+  },
+  {
+    "title": "Physics \u0026 Philosophy",
+    "author": "Heisenberg, Werner",
+    "genre": "science",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Python for Data Analysis",
+    "author": "McKinney, Wes",
+    "genre": "data_science",
+    "publisher": "O\u0027Reilly"
+  },
+  {
+    "title": "All the President\u0027s Men",
+    "author": "Woodward, Bob",
+    "genre": "history",
+    "publisher": "Random House"
+  },
+  {
+    "title": "In a Free State",
+    "author": "Naipaul, V. S.",
+    "genre": "fiction",
+    "publisher": "Rupa"
+  },
+  {
+    "title": "Machine Learning for Hackers",
+    "author": "Conway, Drew",
+    "genre": "data_science",
+    "publisher": "O\u0027Reilly"
+  },
+  {
+    "title": "Burning Bright",
+    "author": "Steinbeck, John",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Once There Was a War",
+    "author": "Steinbeck, John",
+    "genre": "nonfiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Trial, The",
+    "author": "Kafka, Frank",
+    "genre": "fiction",
+    "publisher": "Random House"
+  },
+  {
+    "title": "Complete Mastermind, The",
+    "author": "BBC",
+    "genre": "nonfiction",
+    "publisher": "BBC"
+  },
+  {
+    "title": "Slaughterhouse Five",
+    "author": "Vonnegut, Kurt",
+    "genre": "fiction",
+    "publisher": "Random House"
+  },
+  {
+    "title": "History of Western Philosophy",
+    "author": "Russell, Bertrand",
+    "genre": "philosophy",
+    "publisher": "Routledge"
+  },
+  {
+    "title": "Fundamentals of Wavelets",
+    "author": "Goswami, Jaideva",
+    "genre": "signal_processing",
+    "publisher": "Wiley"
+  },
+  {
+    "title": "We the Living",
+    "author": "Rand, Ayn",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Social Choice \u0026 Welfare, Vol 39 No. 1",
+    "author": "Various",
+    "genre": "economics",
+    "publisher": "Springer"
+  },
+  {
+    "title": "How to Think Like Sherlock Holmes",
+    "author": "Konnikova, Maria",
+    "genre": "psychology",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Story of Philosophy, The",
+    "author": "Durant, Will",
+    "genre": "philosophy",
+    "publisher": "Pocket"
+  },
+  {
+    "title": "Radiowaril Bhashane \u0026 Shrutika",
+    "author": "Deshpande, P L",
+    "genre": "nonfiction",
+    "publisher": "Mauj"
+  },
+  {
+    "title": "Great Indian Novel, The",
+    "author": "Tharoor, Shashi",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Data Scientists at Work",
+    "author": "Sebastian Gutierrez",
+    "genre": "data_science",
+    "publisher": "Apress"
+  },
+  {
+    "title": "Uncommon Wisdom",
+    "author": "Capra, Fritjof",
+    "genre": "nonfiction",
+    "publisher": "Fontana"
+  },
+  {
+    "title": "Free Will",
+    "author": "Harris, Sam",
+    "genre": "philosophy",
+    "publisher": "FreePress"
+  },
+  {
+    "title": "Scoop!",
+    "author": "Nayar, Kuldip",
+    "genre": "history",
+    "publisher": "HarperCollins"
+  },
+  {
+    "title": "Orientalism",
+    "author": "Said, Edward",
+    "genre": "history",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "New Markets \u0026 Other Essays",
+    "author": "Drucker, Peter",
+    "genre": "economics",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Journal of a Novel",
+    "author": "Steinbeck, John",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Electric Universe",
+    "author": "Bodanis, David",
+    "genre": "science",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "India from Midnight to Milennium",
+    "author": "Tharoor, Shashi",
+    "genre": "history",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Complete Sherlock Holmes, The - Vol II",
+    "author": "Doyle, Arthur Conan",
+    "genre": "fiction",
+    "publisher": "Random House"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Dostoevsky, Fyodor",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Ashenden of The British Agent",
+    "author": "Maugham, William S",
+    "genre": "fiction",
+    "publisher": "Vintage"
+  },
+  {
+    "title": "Clash of Civilizations and Remaking of the World Order",
+    "author": "Huntington, Samuel",
+    "genre": "history",
+    "publisher": "Simon\u0026Schuster"
+  },
+  {
+    "title": "Image Processing \u0026 Mathematical Morphology",
+    "author": "Shih, Frank",
+    "genre": "signal_processing",
+    "publisher": "CRC"
+  },
+  {
+    "title": "Manasa",
+    "author": "Kale, V P",
+    "genre": "nonfiction",
+    "publisher": "Mauj"
+  },
+  {
+    "title": "Raisin in the Sun, A",
+    "author": "Hansberry, Lorraine",
+    "genre": "fiction",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Tao of Physics, The",
+    "author": "Capra, Fritjof",
+    "genre": "science",
+    "publisher": "Penguin"
+  },
+  {
+    "title": "Pillars of the Earth, The",
+    "author": "Follett, Ken",
+    "genre": "fiction",
+    "publisher": "Random House"
+  },
+  {
+    "title": "Data Structures Using C \u0026 C++",
+    "author": "Tanenbaum, Andrew",
+    "genre": "computer_science",
+    "publisher": "Prentice Hall"
+  },
+  {
+    "title": "Ahe Manohar Tari",
+    "author": "Deshpande, Sunita",
+    "genre": "nonfiction",
+    "publisher": "Mauj"
+  }
+]
